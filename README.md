@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Dagyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Dagyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ㅗㅇㅎ0116&show_icons=true&theme=radical)
 
 <!--
 **hdg0116/hdg0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
