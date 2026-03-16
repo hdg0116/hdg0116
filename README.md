@@ -65,18 +65,19 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:hdg0116@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hdg0116@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
+<br>
+
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdg0116&layout=compact)
 
 ![Dagyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdg0116&show_icons=true&theme=radical)
+</div>
 
 <!--
 **hdg0116/hdg0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
