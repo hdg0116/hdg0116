@@ -78,7 +78,7 @@
 <h3 align="center">🖥️ Overview 🖥️</h3>
 <div align="center">
 
-![Dagyeong's GitHub status](https://github-readme-stats.vercel.app/api?username=hdg0116&show_icons=true&theme=radical)
+![Dagyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdg0116&show_icons=true&theme=radical)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdg0116&layout=compact)
 
